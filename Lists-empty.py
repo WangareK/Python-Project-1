@@ -1,0 +1,12 @@
+names=[]
+marks=[]
+for i in range (1,5):
+    x=input(f"Please enter your name {i}: ")
+    y= int (input(f"Please enter the marks of {x}:"))
+    names.append(x)
+    marks.append(y)
+print(names)
+print(marks)
+for a,b in zip (names,marks):
+    print(f"{a}:{b}")
+
