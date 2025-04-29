@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb5a34b-4caf-4c7e-a3bb-4f0b39c89b28" name="Changes" comment="Initial commit for task manager">
-      <change afterPath="$PROJECT_DIR$/Smart inventory tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists-empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists-empty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists..py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Lists Ass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial 1 task manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Lists-Ass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trial 1 try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trial 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists-joins.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists-joins.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
