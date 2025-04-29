@@ -1,5 +1,7 @@
+#Creating a task manager
 task_list = []
 
+#User input with range and type for data required
 while True:
     print("\nTask Manager")
     print("1. Add Task\n2. View Tasks\n3. Remove Task\n4. Mark Task as Done\n5. Exit")
@@ -12,6 +14,7 @@ while True:
 
     option = int(x)
 
+#Adding tasks
     if option == 1:
         task = input("Enter your Task: ")
         task_list.append(task)

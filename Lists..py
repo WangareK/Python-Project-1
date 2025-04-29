@@ -1,3 +1,4 @@
+#Practice on list creation and operations
 students=["MaryAnn","Kevin","Kyalo","Ian"]
 print(students)
 print("accessing list items using positive indexes")

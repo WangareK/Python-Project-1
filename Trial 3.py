@@ -1,3 +1,4 @@
+#While loop initial practice
 while True:
     score =(input("Please give your score: "))
     if not score.isdigit():

@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb5a34b-4caf-4c7e-a3bb-4f0b39c89b28" name="Changes" comment="Initial commit for task manager">
-      <change afterPath="$PROJECT_DIR$/Lists-empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smart inventory tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trial 2 isdigit.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists-joins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists-empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists-empty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Lists Ass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial 1 task manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Lists-Ass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trial 1 try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trial 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists-joins.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists-joins.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/WangareK/Python-Lists-Ass.git",
-    "accountId": "c5fc12a5-b68f-48be-890c-8e9c9e3d662d"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WangareK&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WangareK/Python-Lists-Ass.git&quot;,
+    &quot;accountId&quot;: &quot;c5fc12a5-b68f-48be-890c-8e9c9e3d662d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -42,20 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lists-empty.executor": "Run",
-    "Python.Lists..executor": "Run",
-    "Python.Python Lists Ass.executor": "Run",
-    "Python.Trial 2 isdigit.executor": "Run",
-    "Python.While loop.executor": "Run",
-    "Python.lists-joins.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MA/PycharmProjects/PythonProject1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lists-empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Python Lists Ass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Trial 2 isdigit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists-joins.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MA/PycharmProjects/PythonProject1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MA\PycharmProjects\PythonProject1" />

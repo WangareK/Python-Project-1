@@ -1,3 +1,4 @@
+#Concatenating lists
 list1=["MaryAnn","Jane","Kevin"]
 list2=["Ian","Kevin","Kyalo"]
 list3=list1+list2
