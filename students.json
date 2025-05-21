@@ -1,0 +1,24 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "MaryAnn",
+        "grades": {
+            "Math": 100.0,
+            "English": 56.0,
+            "Kiswahili": 78.0,
+            "Science": 99.0,
+            "Social Studies": 15.0
+        }
+    },
+    {
+        "student_id": "STU002",
+        "name": "JOHN",
+        "grades": {
+            "Math": null,
+            "English": null,
+            "Kiswahili": null,
+            "Science": null,
+            "Social Studies": null
+        }
+    }
+]
